@@ -1,2 +1,2 @@
 # opioid
-DEA Opiod Database for Maricopa County Arizona
+DEA Opioid Database for Maricopa County Arizona
